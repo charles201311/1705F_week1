@@ -25,6 +25,12 @@ import com.github.pagehelper.PageInfo;
 public class MovieController {
 	//本机改变
 	
+	
+	
+	//服务器改变
+	
+	
+	
 	@Resource
 	private MovieService movieService;
 	
