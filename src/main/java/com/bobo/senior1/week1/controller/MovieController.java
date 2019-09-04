@@ -23,11 +23,6 @@ import com.github.pagehelper.PageInfo;
 
 @Controller
 public class MovieController {
-<<<<<<< HEAD
-	//本机改变
-	
-=======
->>>>>>> branch 'master' of https://github.com/charles201311/1705F_week1.git
 	
 	
 	//服务器改变
