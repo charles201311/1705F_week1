@@ -27,6 +27,7 @@ public class MovieController {
 	private MovieService movieService;
 	
 	
+	
 	/**
 	 * 根据电影ID 查询中间表.找出其所属分类
 	 * @Title: selectByMid 
