@@ -24,6 +24,7 @@ import com.github.pagehelper.PageInfo;
 @Controller
 public class MovieController {
 	//本机改变
+	
 	@Resource
 	private MovieService movieService;
 	
