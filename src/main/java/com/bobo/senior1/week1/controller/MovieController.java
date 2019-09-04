@@ -23,6 +23,12 @@ import com.github.pagehelper.PageInfo;
 
 @Controller
 public class MovieController {
+	
+	
+	//服务器改变
+	
+	
+	
 	@Resource
 	private MovieService movieService;
 	
